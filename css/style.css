@@ -6,11 +6,11 @@
 }
 
 .navbar-custom {
-  color: #137c5d;
+  color: #137c5d !important;
 }
 
 #navbar ul li {
-  font-size: 1rem;
+  font-size: 17px;
   font-weight: bolder;
   color: #137c5d;
 }
