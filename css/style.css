@@ -3,6 +3,10 @@
   /* background-color: #137c5d !important; */
 }
 
+#header {
+  margin-bottom: 280px;
+}
+
 .navbar-brand img {
   width: 50px;
   height: 50px;
@@ -60,4 +64,9 @@ ul {
 
 .iconPad {
   padding-left: 2rem;
+}
+
+#about {
+  padding-top: 5rem;
+  background-color: #efeeec;
 }
