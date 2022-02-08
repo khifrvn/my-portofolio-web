@@ -46,6 +46,7 @@ ul {
 
 .btn-head {
   float: left;
+  width: 105px;
   border-radius: 30px !important;
   background-color: #137c5d !important;
   margin-left: 2rem;
