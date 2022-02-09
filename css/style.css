@@ -166,9 +166,8 @@ ul {
     display: none;
   }
 
-  .row-head {
-    display: flex;
-    flex-direction: column;
+  .text-head {
+    float: center;
     align-items: center;
   }
 }
