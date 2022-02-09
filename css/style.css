@@ -117,10 +117,10 @@ ul {
 
 .project-item {
   background-color: #efeeec;
-  width: 80px;
+  width: 350px !important;
   height: 300px;
   margin-bottom: 5rem;
-  margin-right: 80px;
-  border-radius: 25%;
+  margin-right: 30px;
+  border-radius: 20%;
 }
 /* MEDIA */
