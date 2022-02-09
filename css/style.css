@@ -75,30 +75,32 @@ ul {
 
 /* End Heaader */
 
-#resume {
+#about {
   background-color: #efeeec;
   font-family: "Poppins", sans-serif;
 }
 
-#resume h1 {
+#about h1 {
   padding-bottom: 2rem;
 }
 
-#resume h3 {
-  float: right;
-  font-size: 19.2px;
-  padding-top: 4rem;
-}
-
-.col-lg-6 {
+#about h3 {
+  font-weight: 100;
   font-size: 16px;
+  padding-top: 6rem;
+  padding-left: 6rem;
 }
 
-.textRes {
-  float: right;
+.btn-res {
+  border-radius: 30px !important;
+  background-color: #137c5d !important;
+  color: white !important;
 }
 
 .imgRes {
   float: left;
-  width: 600px;
+  padding-right: 20px;
+  width: 500px;
 }
+
+/* MEDIA */
