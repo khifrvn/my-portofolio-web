@@ -82,6 +82,7 @@ ul {
 
 #about h1 {
   padding-bottom: 2rem;
+  font-weight: 600;
 }
 
 #about h3 {
@@ -103,4 +104,11 @@ ul {
   width: 500px;
 }
 
+/* Project */
+
+#project h1 {
+  font-family: "Poppins";
+  padding-bottom: 2rem;
+  font-weight: 600;
+}
 /* MEDIA */
