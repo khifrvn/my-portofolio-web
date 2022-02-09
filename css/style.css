@@ -1,10 +1,8 @@
+/* Navbar */
+
 .navbar {
   font-family: "Poppins", sans-serif;
   /* background-color: #137c5d !important; */
-}
-
-#header {
-  margin-bottom: 100px;
 }
 
 .navbar-brand img {
@@ -21,6 +19,14 @@ ul {
   color: #137c5d;
   margin: 2, 2, 2, 2;
   font-weight: 600;
+}
+
+/* End Navbar */
+
+/* Heaader */
+
+#header {
+  margin-bottom: 100px;
 }
 
 .imgHead {
@@ -67,6 +73,8 @@ ul {
   padding-left: 2rem;
 }
 
+/* End Heaader */
+
 #resume {
   background-color: #efeeec;
   font-family: "Poppins", sans-serif;
@@ -74,4 +82,13 @@ ul {
 
 #resume h1 {
   padding-bottom: 2rem;
+}
+
+.textRes {
+  float: right;
+}
+
+.imgRes {
+  float: left;
+  width: 600px;
 }
