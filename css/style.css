@@ -121,6 +121,19 @@ ul {
   height: 300px;
   margin-bottom: 5rem;
   margin-right: 30px;
-  border-radius: 20%;
+  border-radius: 17%;
 }
+
+.btn-pr {
+  font-family: "Poppins", sans-serif;
+  float: right;
+  background-color: #efeeec !important;
+  color: rgb(129, 127, 127) !important;
+  width: 150px;
+  margin-bottom: 20px;
+  border-radius: 30px !important;
+  font-weight: 500 !important;
+  text-decoration: none solid rgb(52, 54, 74);
+}
+
 /* MEDIA */
