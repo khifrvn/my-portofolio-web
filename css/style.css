@@ -46,11 +46,12 @@ ul {
   color: #34364a;
 }
 
-.textHead p {
+.headPar {
   float: left;
   display: inline;
   font-family: "Poppins", sans-serif;
   font-weight: 600;
+  font-size: 18px;
   padding-left: 2rem;
   color: #34364a;
 }
@@ -137,3 +138,37 @@ ul {
 }
 
 /* MEDIA */
+@media only screen and (max-width: 990px) {
+  .imgHead {
+    width: 320px;
+    height: 250px;
+  }
+  .headPar {
+    display: none;
+  }
+
+  .imgRes {
+    width: 400px;
+  }
+}
+
+@media only screen and (max-width: 766px) {
+  #about h3 {
+    margin-top: 0;
+    margin-left: 0;
+    font-weight: 100;
+    font-size: 16px;
+    padding-top: 0;
+    padding-left: 0;
+  }
+
+  .imgHead {
+    display: none;
+  }
+
+  .row-head {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
