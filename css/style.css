@@ -42,6 +42,7 @@ ul {
 
 .textHead p {
   float: left;
+  display: inline;
   font-family: "Poppins", sans-serif;
   font-weight: 600;
   padding-left: 2rem;
@@ -66,7 +67,12 @@ ul {
   padding-left: 2rem;
 }
 
-#about {
+#resume {
   padding-top: 5rem;
   background-color: #efeeec;
+  font-family: "Poppins", sans-serif;
+}
+
+#resume h1 {
+  padding-bottom: 2rem;
 }
