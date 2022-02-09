@@ -80,9 +80,9 @@ ul {
   font-family: "Poppins", sans-serif;
 }
 
-#about h1 {
+#about h2 {
   padding-bottom: 2rem;
-  font-weight: 900;
+  font-weight: bolder;
   color: #34364a;
 }
 
@@ -107,7 +107,7 @@ ul {
 
 /* Project */
 
-#project h2 {
+#projects h2 {
   font-family: "Poppins";
   padding-bottom: 2rem;
   font-weight: bolder;
