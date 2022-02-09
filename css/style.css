@@ -4,7 +4,7 @@
 }
 
 #header {
-  margin-bottom: 280px;
+  margin-bottom: 100px;
 }
 
 .navbar-brand img {
@@ -68,7 +68,7 @@ ul {
 }
 
 #resume {
-  padding-top: 5rem;
+  padding-top: 2rem;
   background-color: #efeeec;
   font-family: "Poppins", sans-serif;
 }
