@@ -109,9 +109,18 @@ ul {
 
 #projects h2 {
   font-family: "Poppins";
-  padding-bottom: 2rem;
+  padding-bottom: 5rem;
   font-weight: bolder;
   font-size: 32px;
   color: #34364a;
+}
+
+.project-item {
+  background-color: #efeeec;
+  width: 80px;
+  height: 300px;
+  margin-bottom: 5rem;
+  margin-right: 80px;
+  border-radius: 25%;
 }
 /* MEDIA */
