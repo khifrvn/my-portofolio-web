@@ -1,0 +1,23 @@
+body {
+  background-color: #f7f8fd;
+  background-image: radial-gradient(#dfdfdf 1.5px, #f7f8fd 1.5px);
+  background-size: 30px 30px;
+}
+
+/* Navbar */
+.text-nav li a {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 500 !important;
+  line-height: 24px;
+  color: #2447f9;
+}
+
+.navbar {
+  margin-left: -20px !important;
+  margin-right: -20px !important;
+}
+
+#navbarNav {
+  margin: auto;
+}
