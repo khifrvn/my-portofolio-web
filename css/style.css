@@ -108,25 +108,44 @@ body {
 
 /* MEDIA */
 
-@media only screen and (max-width: 1000px) {
+@media screen and (max-width: 1200px) {
+  .abt-img {
+    width: 450px;
+    height: auto;
+  }
+}
+
+@media screen and (max-width: 1000px) {
   .acc-img {
     display: none;
   }
 }
 
-@media only screen and (max-width: 670px) {
+@media screen and (max-width: 670px) {
   .header-con {
     margin-left: 25px;
   }
 }
 
-@media only screen and (max-width: 460px) {
+@media screen and (max-width: 575px) {
+  .abt-img {
+    width: 350px;
+    height: auto;
+    margin-left: 2rem;
+  }
+
+  .text-about p {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 460px) {
   .btn-head {
     width: 80%;
   }
 }
 
-@media only screen and (max-width: 410px) {
+@media screen and (max-width: 410px) {
   #header ul li {
     display: none;
   }
