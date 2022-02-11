@@ -18,6 +18,11 @@ body {
   color: #2447f9;
 }
 
+#navbar {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
+
 #navbarNav {
   margin: auto;
 }
@@ -41,4 +46,45 @@ body {
 .acc-img {
   width: 500px;
   height: auto;
+}
+
+.sosial-link {
+  font-size: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #34364a !important;
+}
+
+#header ul li {
+  display: inline-block;
+}
+
+.header-con {
+  padding-top: 3rem;
+}
+
+.btn-head {
+  width: 200px;
+  margin-bottom: 10px;
+  border-radius: 30px !important;
+}
+
+/* MEDIA */
+
+@media only screen and (max-width: 1000px) {
+  .acc-img {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 670px) {
+  .header-con {
+    margin-left: 25px;
+  }
+}
+
+@media only screen and (max-width: 460px) {
+  .btn-head {
+    width: 80%;
+  }
 }
