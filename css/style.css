@@ -69,6 +69,43 @@ body {
   border-radius: 30px !important;
 }
 
+/* About */
+
+#about {
+  margin-top: 4rem;
+}
+
+.text-about h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 32px;
+  margin-top: 4rem;
+  text-align: center;
+  color: #34364a !important;
+}
+
+.text-about p {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  margin-top: 2rem;
+  text-align: left;
+  color: #34364a !important;
+}
+
+.skill-list ul li {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  text-align: left;
+  color: #34364a !important;
+}
+
+.abt-img {
+  width: 500px;
+  height: auto;
+}
+
 /* MEDIA */
 
 @media only screen and (max-width: 1000px) {
