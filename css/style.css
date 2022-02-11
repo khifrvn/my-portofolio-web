@@ -21,3 +21,24 @@ body {
 #navbarNav {
   margin: auto;
 }
+
+/* Header */
+#header {
+  font-family: "Poppins", sans-serif;
+}
+
+.header-title {
+  font-size: 46px;
+  font-weight: 700 !important;
+  color: #34364a;
+}
+
+.header-prof {
+  font-size: 20px;
+  font-weight: 400 !important;
+}
+
+.acc-img {
+  width: 500px;
+  height: auto;
+}
