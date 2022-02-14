@@ -116,12 +116,6 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
-#projects img {
-  width: 190px;
-  height: auto;
-  border-radius: 20px;
-}
-
 .card-project {
   background-color: red;
   display: block;
