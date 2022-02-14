@@ -110,10 +110,27 @@ body {
 
 #projects {
   margin-top: 130px;
+  font-family: "Poppins", sans-serif;
+}
+
+#projects img {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
 }
 
 #projects h2 {
   font-family: "Poppins", sans-serif;
+}
+
+#projects h5 {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 24px;
+}
+
+#projects p {
+  font-size: 15px;
 }
 
 .card-project {
