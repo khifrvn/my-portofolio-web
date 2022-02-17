@@ -145,6 +145,12 @@ body {
   font-weight: 600;
 }
 
+.btn-projects {
+  float: right;
+  width: 150px;
+  border-radius: 30px !important;
+}
+
 /* =============================== MEDIA ======================================= */
 
 @media screen and (max-width: 1200px) {
