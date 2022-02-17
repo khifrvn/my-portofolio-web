@@ -191,9 +191,17 @@
     <section id="contact">
       <div class="container">
         <div class="row">
-          <div class="col-12">
+          <div class="col-md-12">
             <form>
-              
+              <h6>Name*</h6>
+              <input type="text" name="text" required="" placeholder="John Doe" class="form-control"><br>
+              <h6>Email*</h6>
+              <input type="email" name="email" required="" placeholder="johndoe@gmail.com" class="form-control"><br>
+              <h6>Message*</h6>
+              <textarea class="form-control" rows="3" placeholder="Hey, i need your help.."></textarea><br>
+              <center>
+                <a id="btnabt" onclick="submitAlert()" class="btn btn-sm js-scrolltrigger mx-auto d-block" href="#"><span>Submit</span></a>
+              </center>
             </form>
           </div>
         </div>
