@@ -1,0 +1,19 @@
+{
+  "name": "my-portofolio-web",
+  "version": "1.0.0",
+  "description": "My portopolio web",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khifrvn/my-portofolio-web.git"
+  },
+  "author": "khifrvn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khifrvn/my-portofolio-web/issues"
+  },
+  "homepage": "https://github.com/khifrvn/my-portofolio-web#readme"
+}
